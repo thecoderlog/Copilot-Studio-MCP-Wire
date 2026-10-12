@@ -1,0 +1,5 @@
+{
+  "alice": { "id": "alice", "name": "Alice", "role": "Frontend engineer", "city": "Pune", "color": "#f5a524" },
+  "bob": { "id": "bob", "name": "Bob", "role": "Product designer", "city": "Lisbon", "color": "#61dafb" },
+  "sam": { "id": "sam", "name": "Sam", "role": "Backend engineer", "city": "Toronto", "color": "#3ecf8e" }
+}

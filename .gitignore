@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+agent/runs/*.json
+.DS_Store
+mcp/wire.log
+mcp/wire.jsonl
